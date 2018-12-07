@@ -303,7 +303,9 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-brand h1 {
 	margin: 0;
 }
-
+.navbar-nav > li{
+	margin:5px;
+}
 .navbar-inverse .navbar-nav > li > a {
     color: red;
     font-size: 14px;
